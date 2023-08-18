@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/niraj-kumar-mahto/" target="_blank"> Niraj Kumar Mahto </a></h1>
-<img width="30%" align="right"   src="https://github.com/Niraj1412/Niraj1412/blob/workbench.svg/niraj1412" >
+<img width="30%" align="right"   src="https://github.com/Niraj1412/Niraj1412/blob/main/workbench.svg" >
 
 A bit about Myself, I am <b>Abhinav Kumar</b> pursuing a <b>Computer Science Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>web development, Flutter Development</b>, and literally any random stuff that I find interesting.⚡
 
