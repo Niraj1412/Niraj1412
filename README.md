@@ -1,16 +1,16 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/niraj-kumar-mahto/" target="_blank"> Niraj Kumar Mahto </a></h1>
 <img width="30%" align="right"   src="https://github.com/Niraj1412/Niraj1412/blob/main/workbench.svg" >
 
-A bit about Myself, I am <b>Abhinav Kumar</b> pursuing a <b>Computer Science Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>web development, Flutter Development</b>, and literally any random stuff that I find interesting.⚡
+A bit about Myself, I am <b>Niraj Kumar Mahto</b> pursuing a <b>Electronics and Communication Degree</b> from Birla Institue of Technology Mesra. As of now, I am focused on <b>Mern development, django Development</b>, and literally any random stuff that I find interesting.⚡
 
-<h3 align="center">A Passionate Web And App Developer | Blogger | Machine learning enthusiast </h3>
+<h3 align="center">A Passionate Web And App Developer | Data Analyst | Tech enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhi6722&label=Profile%20views&color=6805D3&style=flat" alt="Abhinav Kumar" /> </p></h3>
    <div align="center">
 
    <h1>Technical Skills 🛠</h1>
    
-I have learned webdevelopment and having knowledge of HTML, CSS & Javascript, Jquery and ReactJs. Beside that I am also learning Java and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
+I have learned web development and having knowledge of HTML, CSS & Javascript, Jquery and ReactJs. Beside that I am also learning Python and also has basic knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
