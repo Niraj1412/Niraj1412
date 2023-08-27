@@ -41,7 +41,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](niraj1412.github.io/niraj-portfolio)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [My Portfolio Website](https://niraj1412.github.io/niraj-portfolio/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Covid Resources](https://github.com/Abhi6722/covid_resources)   | This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place    | issued.© 2021 Abhinav Kumar 
 | [Machine Learning Prediction Model](https://github.com/Abhi6722/Predictor)     | The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. |
 | [Toodle](https://github.com/Abhi6722/toodle)     | A Google clone built using NextJs and Tailwind CSS.
