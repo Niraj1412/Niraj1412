@@ -46,8 +46,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [React Pizza Ordering web app](https://github.com/Niraj1412/Pizza-Spot)     | Pizza Ordering App This is a simple pizza ordering app built with React and Redux. |
 | [Stock Search Web App](https://github.com/Niraj1412/Stock-Search-Web-App)   | This Python and Streamlit-powered web app simplifies stock search on Yahoo! Finance. Users can search by ticker symbol, view historical closing prices, the latest closing price, daily volume, and more. It's your quick path to informed investment decisions. 
 | [Netflix Data Analysis](https://github.com/Niraj1412/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis.ipynb)     | Netflix data Analysis project uses Python libraries (Pandas, NumPy, Seaborn, Plotly, Matplotlib) to analyze a Netflix dataset. Goals include data exploration, cleaning, visualization, statistical insights, and user preference analysis.
-| [Netflix-Clone](https://github.com/Abhi6722/Netflix_app)     | A simple ReactJS Netflix homepage clone running on Astra DB that leverages a GraphQL API with paging and infinite scrolling.
-| [IEEE](https://github.com/Abhi6722/IEEE)     | IEEE Student Branch BIT Deogarh Website using HTML/CSS/JS
+
 <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
 
 <h1 align="center">Let's Get Connected</h1>
