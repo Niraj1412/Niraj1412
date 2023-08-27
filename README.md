@@ -42,7 +42,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://niraj1412.github.io/niraj-portfolio/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [Covid Resources](https://github.com/Abhi6722/covid_resources)   | This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place    | issued.© 2021 Abhinav Kumar 
+| [Libray Management System](library-management.brandlime.in/)   | The library management system features a React-based frontend for user interactions. Its backend relies on Django REST Framework (DRF) to provide a secure and efficient API for managing books and member interactions. DRF ensures smooth communication between the frontend and backend, handling book management, member interactions, authentication, data validation, and documentation.    | 
 | [Machine Learning Prediction Model](https://github.com/Abhi6722/Predictor)     | The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. |
 | [Toodle](https://github.com/Abhi6722/toodle)     | A Google clone built using NextJs and Tailwind CSS.
 | [Toodle Meet](https://github.com/Abhi6722/Toodle-Meet)     | Toodle Meet is a Secure, Simple and Scalable Video Conference solution that you can use as a standalone app or embed in your web application.
