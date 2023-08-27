@@ -43,7 +43,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   |  
 | [My Portfolio Website](https://niraj1412.github.io/niraj-portfolio/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Libray Management System]( https://github.com/Niraj1412/Library_management_system-client ) | The library management system features a React-based frontend for user interactions. Its backend relies on Django REST Framework (DRF) to provide a secure and efficient API for managing books and member interactions. DRF ensures smooth communication between the frontend and backend, handling book management, member interactions, authentication, data validation, and documentation.    | 
-| [React Pizza Ordering web app](https://github.com/Niraj1412/Pizza-Spot)     | # Pizza Ordering App This is a simple pizza ordering app built with React and Redux. |
+| [React Pizza Ordering web app](https://github.com/Niraj1412/Pizza-Spot)     | Pizza Ordering App This is a simple pizza ordering app built with React and Redux. |
 | [Toodle](https://github.com/Abhi6722/toodle)     | A Google clone built using NextJs and Tailwind CSS.
 | [Toodle Meet](https://github.com/Abhi6722/Toodle-Meet)     | Toodle Meet is a Secure, Simple and Scalable Video Conference solution that you can use as a standalone app or embed in your web application.
 | [Netflix-Clone](https://github.com/Abhi6722/Netflix_app)     | A simple ReactJS Netflix homepage clone running on Astra DB that leverages a GraphQL API with paging and infinite scrolling.
