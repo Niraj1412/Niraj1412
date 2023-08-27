@@ -46,6 +46,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [React Pizza Ordering web app](https://github.com/Niraj1412/Pizza-Spot)     | Pizza Ordering App This is a simple pizza ordering app built with React and Redux. |
 | [Stock Search Web App](https://github.com/Niraj1412/Stock-Search-Web-App)   | This Python and Streamlit-powered web app simplifies stock search on Yahoo! Finance. Users can search by ticker symbol, view historical closing prices, the latest closing price, daily volume, and more. It's your quick path to informed investment decisions. 
 | [Netflix Data Analysis](https://github.com/Niraj1412/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis.ipynb)     | Netflix data Analysis project uses Python libraries (Pandas, NumPy, Seaborn, Plotly, Matplotlib) to analyze a Netflix dataset. Goals include data exploration, cleaning, visualization, statistical insights, and user preference analysis.
+| [Whatsapp chat analysis web app](https://github.com/Niraj1412/Whatsapp-chat-Analysis)     | Python-based web app on Streamlit, offering simple chat import, quick overviews, word clouds, message timelines, participant insights, sentiment analysis, media examination, keyword search, and exportable reports, making it perfect for personal reflection, improving professional communication, aiding research, and monitoring therapy progress.
 
 <h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
 
